@@ -1,0 +1,35 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    text-transform: uppercase;
+    font-size: 3rem;
+}
+
+.thanos-meme {
+    color: white;
+    text-align: center;
+    width: 50%;
+    margin-left: 25%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.marvel-pic {
+    width: 100%;
+    border: 5px solid white;
+}
+
+
+.iron-man {
+    color: white;
+    text-align: center;
+    width: 50%;
+    margin-left: 25%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.robert {
+    width: 100%;
+    border: 5px dotted white;
+}
